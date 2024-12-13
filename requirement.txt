@@ -1,0 +1,14 @@
+Pytesseract
+Pytorch
+EasyOCR
+Python-docx
+Deep_tramslator
+dotenv
+Google-gen-ai
+FAISS-CPU
+numpy
+tempfile
+PyPDF2
+firebase_admin
+streamlit
+PIL
